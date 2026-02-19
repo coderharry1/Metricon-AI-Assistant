@@ -177,6 +177,13 @@ http://localhost:7860
 
 ---
 
+---
+
+## 💡 Sample Questions Screenshots 
+1. 
+
+---
+
 ## 🔮 Roadmap
 
 - [ ] Hybrid search (BM25 + semantic)
