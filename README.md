@@ -180,7 +180,17 @@ http://localhost:7860
 ---
 
 ## 💡 Sample Questions Screenshots 
-1. 
+1. What is the step-by-step building process at Metricon? 
+
+<img width="1491" height="747" alt="Screenshot 2026-02-19 at 5 54 25 PM" src="https://github.com/user-attachments/assets/c435ec38-5a23-4375-b628-ec19a5c67287" />
+
+2. Why should I choose Metricon over other builders?
+
+<img width="1473" height="852" alt="Screenshot 2026-02-19 at 5 57 22 PM" src="https://github.com/user-attachments/assets/735ad04c-5311-41d4-b7ed-558ff2e1bfdf" />
+
+3. What help is available for first home buyers?
+<img width="1503" height="495" alt="Screenshot 2026-02-19 at 5 58 48 PM" src="https://github.com/user-attachments/assets/f7408278-66e9-4870-b1b0-b312fded8f74" />
+
 
 ---
 
