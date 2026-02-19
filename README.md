@@ -8,6 +8,8 @@ The idea is simple: if this works for customers, the same approach could help Me
 
 Construction, planning, approvals, compliance, any team drowning in documents could use something like this.
 
+<img width="1495" height="852" alt="Screenshot 2026-02-19 at 5 34 45 PM" src="https://github.com/user-attachments/assets/270219c1-1594-4f6b-ad46-77576dc2e641" />
+
 ### *"Don't just search for answers. Let AI build them for you."*
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
