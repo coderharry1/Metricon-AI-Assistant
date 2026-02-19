@@ -194,7 +194,7 @@ Built by **Harish** — a portfolio project demonstrating production-grade RAG p
 <div align="center">
 <sub>Built with ❤️ using AWS Bedrock + Qdrant + Gradio</sub>
 </div>
-EOF
+
 
 
 
