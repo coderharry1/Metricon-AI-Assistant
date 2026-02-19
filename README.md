@@ -24,7 +24,7 @@ Construction, planning, approvals, compliance, any team drowning in documents co
 
 ## 🧠 What Makes This Different
 
-Most RAG pipelines just split text and store it. **ConstructIQ goes further.**
+Most RAG pipelines just split text and store it. **Metricon HomeIQ  goes further.**
 
 Every single chunk is sent to **AWS Bedrock Nova**, which reads it, understands it, and enriches it with:
 
@@ -36,7 +36,7 @@ Every single chunk is sent to **AWS Bedrock Nova**, which reads it, understands 
 | `category` | Auto-classified topic area |
 | `importance` | AI-scored relevance from 1–10 |
 
-This means when a customer asks a question, we're not just doing keyword matching — we're matching against **AI-understood meaning**.
+This means when a customer asks a question, we're not just doing keyword matching, we're matching against **AI-understood meaning**.
 
 ---
 
@@ -187,7 +187,7 @@ http://localhost:7860
 
 ## 👨‍💻 About
 
-Built by **Harish** — a portfolio project demonstrating production-grade RAG pipeline design using AWS Bedrock and vector search.
+Built by **Harish Krishnan**. I wanted to see if RAG could actually be useful for something people care about, buying a home is one of the biggest decisions someone makes, and most builders still make you dig through PDFs or wait on hold. This was my attempt at changing that.
 
 ---
 
