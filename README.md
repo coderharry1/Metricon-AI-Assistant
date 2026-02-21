@@ -194,10 +194,14 @@ http://localhost:7860
 
 ---
 
+## 🌐 Live Demo
 
-## Live Website
+> Try HomeCare AI live — no installation required!
 
-https://harish-krishnan.lovable.app
+[![Live App](https://img.shields.io/badge/🏠%20HomeCare%20AI-Launch%20Live%20App-6366f1?style=for-the-badge)](https://harish-krishnan.lovable.app)
+
+**👉 [https://harish-krishnan.lovable.app](https://harish-krishnan.lovable.app)**
+
 ---
 
 ## 🔮 Roadmap
