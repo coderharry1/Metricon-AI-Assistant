@@ -194,6 +194,12 @@ http://localhost:7860
 
 ---
 
+
+## Live Website
+
+https://harish-krishnan.lovable.app
+---
+
 ## 🔮 Roadmap
 
 - [ ] Hybrid search (BM25 + semantic)
